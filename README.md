@@ -1,4 +1,4 @@
-# Proxy Status On Termux & Windows
+# Cek Status Proxy  di Terminal Windows
 
 # Tampilan Proxy Status Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/proxy-status/master/proxy.jpg)
